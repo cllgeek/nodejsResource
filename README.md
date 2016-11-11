@@ -1,7 +1,7 @@
 # Node.js 资源汇总
-
-[](http://blog.fens.me/wp-content/uploads/2013/05/nodejs-1.png)
-
+<div style="text-align:center;">
+<img src="http://blog.fens.me/wp-content/uploads/2013/05/nodejs-1.png" />
+</div>
 ## 学习路线图
 以下内容是我整理的文档和教程，每个软件包对应一篇文章，大家可以根据自己的需要进行阅读，完整的文章列表，可以查看：[从零开始nodejs系列文章](http://blog.fens.me/series-nodejs/)。
 
