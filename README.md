@@ -90,6 +90,10 @@
 * cnodejs：[http://cnodejs.org/](http://cnodejs.org/)
 * nodejsbbs：[http://nodejsbbs.com/forum.php](http://nodejsbbs.com/forum.php)
 
+## nodejs开源作品:
+
+* [N-blog](https://github.com/nswbmw/N-blog) 从零搭建nodejs多人博客
+ 
 ## 更多资料
 
 * [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
