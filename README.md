@@ -1,5 +1,20 @@
 # Node.js 资源汇总
 
+## 学习路线图
+以下内容是我整理的文档和教程，每个软件包对应一篇文章，大家可以根据自己的需要进行阅读，完整的文章列表，可以查看：[从零开始nodejs系列文章](http://blog.fens.me/series-nodejs/)。
+
+* 项目管理：npm,grunt, bower, yeoman
+* Web开发：express,ejs,hexo, socket.io, restify, cleaver, stylus, browserify,cheerio
+* 工具包：underscore,moment,connet,later,log4js,passport,passport(oAuth),domain,require,reap,
+* commander,retry
+* 数据库：mysql,mongoose,redis
+* 异步：async,wind
+* 部署：forever,pm2
+* 测试：jasmine,karma
+* 跨平台：rio,tty
+* 内核：cluster,http,request
+* 算法：ape-algorithm(快速排序),ape-algorithm(桶排序)
+
 ## 文档
 
 * Node.js 官方文档：[http://nodejs.org/api/](http://nodejs.org/api/)
